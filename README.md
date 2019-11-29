@@ -5,25 +5,25 @@
 
 ## 정리되어 있는 Operator
 
-# 생성 연산자
+### 생성 연산자
 1. Just
 2. FromIterable
 3. Defer
 
-# 변환 연산자 (1 to N)
+### 변환 연산자 (1 to N)
 1. Map 
 2. FlatMap
 3. SwitchMap
 4. ConcatMap
 5. GroupBy
 
-# 변환 연산자 (N to 1)
+### 변환 연산자 (N to 1)
 1. toXXX
 2. Merge
 3. Concat
 4. Zip
 
-# 유틸 연산자
+### 유틸 연산자
 1. doOnXXX
 2. onErrorReturn
 3. onErrorReturnItem
