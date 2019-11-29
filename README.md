@@ -23,7 +23,7 @@
 3. Concat
 4. Zip
 
-### 유틸 연산자
+### 유틸 연산자 (추가 예정)
 1. doOnXXX
 2. onErrorReturn
 3. onErrorReturnItem
